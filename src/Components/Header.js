@@ -12,6 +12,7 @@ const Header= () => {
     <Container position='static' >
         <Toolbar>
             <img src={ logo } alt='logo' style={{ width: 200 }} />
+            By Vinay Soni
         </Toolbar>
     </Container>
   )
